@@ -1,4 +1,4 @@
-Here are links to some some my games I made on scratch:
+# Here are links to some some my games I made on scratch:
 
 Lamp Clicker: https://scratch.mit.edu/projects/885098812/
 
